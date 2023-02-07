@@ -41,7 +41,7 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 
 ## Github Stats
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed&label=Profile%20views&labelColor=51ecb5&color=51ecb5&style=plastic" alt="Ahmed" /> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aamsg90&label=Profile%20views&labelColor=51ecb5&color=51ecb5&style=plastic" alt="aamsg90" /> 
 </p>
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/aamsg90?cardType=github&theme=dark&Border=51ECB5&Text=51ECB5&Icon=51ECB5&Title=51ECB5&Ring=51ECB5)](#)
