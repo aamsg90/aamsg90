@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aamsg90" alt="aamsg90" /></a> </p>
 
-- 🌱 I’m currently learning **Python, React, React Native, MongoDB, Express and NodeJS**
+- 🌱 I’m currently learning **JAVA, Python, React, React Native, MongoDB, Express and NodeJS**
 
 - 💬 Ask me about **JavaScript, CSS, HTML and Bootstrap**
 
