@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **aamsg90@gmail.com**
 
-- ⚡ Fun fact **I traveled to 24 countries and my goal is to hit 40 by the age of 40**
+- ⚡ Fun fact **I traveled to 27 countries and my goal is to hit 40 by the age of 40**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
