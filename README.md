@@ -25,10 +25,6 @@
 
 ## Github Stats
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aamsg90&label=Profile%20views&labelColor=51ecb5&color=51ecb5&style=plastic" alt="aamsg90" /> 
-</p>
-
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/aamsg90?cardType=github&theme=dark&Border=51ECB5&Text=51ECB5&Icon=51ECB5&Title=51ECB5&Ring=51ECB5)](#)
 
 <p align="left">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aamsg90&&theme=dark&title_color=51ECB5&text_color=51ECB5&border_color=51ecb5&langs_count=8&layout=compact" alt="aamsg90" />
