@@ -10,7 +10,6 @@
 
 - 📫 How to reach me **aamsg90@gmail.com**
 
-- ⚡ Fun fact **Email came before the web**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
